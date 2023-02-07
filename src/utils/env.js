@@ -1,0 +1,1 @@
+export const isDevelopment = () => process.env.REACT_APP_ENV === 'DEVELOPMENT';
